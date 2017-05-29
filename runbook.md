@@ -1,7 +1,8 @@
-## Acme Digital - Runbook 2017
+# Acme Digital - Runbook 2017
 ## Error: EID123
 
-## Perform a soft reboot
+
+### Perform a soft reboot
 
 To perform a soft reboot of the server, you must be logged in to the server using an account with superuser or administrator permissions.
 
@@ -20,7 +21,7 @@ Alternatively, you can initiate a soft reboot from the command line by entering 
 ```shutdown /r```
 If a dialog box appears, select Restart from the dropdown menu. Click OK.
 
-##  Perform a hard reboot
+###  Perform a hard reboot
 
 If the server is not responding or was shut down manually, perform a hard reboot via the Admin Panel to simulate power cycling the server.
 
